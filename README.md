@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mbarachi Victor</h1>
 <h3 align="center">An ever learning frontend engineer from Nigeria</h3>
 
-img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShAT9tXrwqWF8sg_AdC6jWO-VgPHwp0Pmw3w&usqp=CAU"
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShAT9tXrwqWF8sg_AdC6jWO-VgPHwp0Pmw3w&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbarachi&label=Profile%20views&color=0e75b6&style=flat" alt="mbarachi" /> </p>
 
